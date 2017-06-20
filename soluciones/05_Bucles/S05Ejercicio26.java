@@ -33,10 +33,7 @@ public class S05Ejercicio26 {
 			}
 			
 			b--;
-			
 		}
-
 	}
-
 }
 
